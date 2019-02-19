@@ -1,0 +1,5 @@
+#tomcat访问的端口
+server:
+  port: 9001
+  tomcat:
+    uri-encoding: utf-8

@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f6de810-ff1f-4b4d-bce6-1b807e11d62c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/eureka-7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-7001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-7002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-7002/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-7003/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-7003/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/producer-core/producer-core-service/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/producer-core/producer-core-service/src/main/resources/config/application.yml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/producer-core/producer-core-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/producer-core/producer-core-service/target/" />
+    <ignored path="$PROJECT_DIR$/producer-core/producer-core-interface/target/" />
+    <ignored path="$PROJECT_DIR$/consumer-fenign-core-web/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/producer-core/producer-core-dao/target/" />
+    <ignored path="$PROJECT_DIR$/hystix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-7003/target/" />
+    <ignored path="$PROJECT_DIR$/consumer-feign/target/" />
+    <ignored path="$PROJECT_DIR$/producer/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-7002/target/" />
+    <ignored path="$PROJECT_DIR$/consumer/target/" />
+    <ignored path="$PROJECT_DIR$/producer-core/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-7001/target/" />
+    <ignored path="$PROJECT_DIR$/zuul-gateway-9527/target/" />
+    <ignored path="$PROJECT_DIR$/pojo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1064328227">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="yml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="YAML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="yml" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="YAML" value="34" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-7001/src/main/java/com/dongdong/eureka/eureka7001_App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-7002/src/main/java/com/dongdong/eureka/eureka7002_App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-7003/src/main/java/com/dongdong/eureka/eureka7003_App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-7003/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-7002/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-7001/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/producer-core/producer-core-service/src/main/java/com/producer/Application_core.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="13" column="20" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/producer-core/producer-core-service/src/main/resources/config/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-7003/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-7002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-7001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/producer-core/producer-core-service/src/main/resources/config/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/mvn/maven" />
+        <option name="userSettingsFile" value="E:\mvn\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="21" />
+    <option name="y" value="-11" />
+    <option name="width" value="1386" />
+    <option name="height" value="736" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-7001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-7002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-7002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-7002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-7002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="producer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dongdong-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dongdong-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core" type="462c0819:PsiDirectoryNode" />
+              <item name="producer-core-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550590545067" />
+    <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application_core">
+    <configuration name="Application_core" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="producer-core-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.producer.Application_core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka7001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dongdong.eureka.eureka7001_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka7002_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dongdong.eureka.eureka7002_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka7003_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-7003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dongdong.eureka.eureka7003_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.eureka7003_App" />
+      <item itemvalue="Spring Boot.eureka7002_App" />
+      <item itemvalue="Spring Boot.eureka7001_App" />
+      <item itemvalue="Spring Boot.Application_core" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application_core" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\consumer" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\consumer" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\consumer-feign" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\consumer-feign" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\consumer-fenign-core-web" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\consumer-fenign-core-web" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\eureka-7001" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\eureka-7001" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\eureka-7002" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\eureka-7002" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\eureka-7003" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\eureka-7003" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\hystix-dashboard" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\hystix-dashboard" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\pojo" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\pojo" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\producer" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\producer" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\producer-core" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\producer-core" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\producer-core\producer-core-dao" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\producer-core\producer-core-dao" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\producer-core\producer-core-interface" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\producer-core\producer-core-interface" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\producer-core\producer-core-pojo" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\producer-core\producer-core-pojo" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\producer-core\producer-core-service" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\producer-core\producer-core-service" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\zuul-gateway-9527" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent\zuul-gateway-9527" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\IDEAWorkspace\qq\dongdong-parent" />
+          <option name="myCopyRoot" value="E:\IDEAWorkspace\qq\dongdong-parent" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f6de810-ff1f-4b4d-bce6-1b807e11d62c" name="Default Changelist" comment="" />
+      <created>1550589181032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550589181032</updated>
+      <workItem from="1550589184494" duration="1953000" />
+      <workItem from="1550593228377" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2220000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31770045" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18649517" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eureka-7001/src/main/java/com/dongdong/eureka/eureka7001_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-7002/src/main/java/com/dongdong/eureka/eureka7002_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-7003/src/main/java/com/dongdong/eureka/eureka7003_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-7003/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-7002/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-7001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-core/producer-core-service/src/main/java/com/producer/Application_core.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" column="20" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/producer-core/producer-core-service/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
